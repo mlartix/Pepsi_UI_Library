@@ -1,3 +1,5 @@
+--[[ Pepsi's UI Library
+Better and updated web-based docs are planned in distant future.
 Library v0.36 [
     CreateWindow: Function (
         (table | nil) Options [
@@ -457,3 +459,4 @@ Library v0.36 [
 		Instance_new: Function (Class, Parent) // Automatically protects instances with syn.protect_gui, and adds the instance to library.objects (all objects destroyed when unloading)
     ]
 ]
+]]
